@@ -6,4 +6,6 @@ dependencies:
   - r-tidyverse
   - bioconductor-ggtree
   - bioconductor-treeio
+  - bioconductor-biostrings
   - r-tidytree
+  - r-ggstance
