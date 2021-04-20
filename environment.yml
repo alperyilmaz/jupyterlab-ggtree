@@ -5,7 +5,12 @@ channels:
 dependencies:
   - r-tidyverse
   - bioconductor-ggtree
+  - bioconductor-ggtreeextra
+  - bioconductor-phyloseq
   - bioconductor-treeio
   - bioconductor-biostrings
+  - fasttree
   - r-tidytree
+  - r-treemap
+  - r-treemapify
   - r-ggstance
