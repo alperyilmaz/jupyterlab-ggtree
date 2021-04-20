@@ -1,4 +1,6 @@
 channels:
-  - bioconductor
+  - r 
+  - bioconda
 dependencies:
+  - r-tidyverse
   - bioconductor-ggtree
