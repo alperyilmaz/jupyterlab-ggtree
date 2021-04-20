@@ -1,7 +1,4 @@
 channels:
-  - r
   - bioconductor
 dependencies:
-  - r-base=4.0
-  - r-tidyverse
   - bioconductor-ggtree
